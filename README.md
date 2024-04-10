@@ -24,4 +24,5 @@
 
 ![image](https://github.com/SergioABS-GTICS/clase-2/assets/154263057/ff5d2476-bf68-4d1f-ab2c-b4a56ef6b6ea)
 
+![image](https://github.com/SergioABS-GTICS/clase-2/assets/154263057/76b6d7c5-9dc9-45a6-902c-cf4523ef4a1e)
 
