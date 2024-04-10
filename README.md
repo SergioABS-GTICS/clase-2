@@ -51,5 +51,19 @@ Resultados:
 
 ![image](https://github.com/SergioABS-GTICS/clase-2/assets/154263057/4b30e446-5c44-4b85-88d9-029589162d0e)
 
-##
+**Otro uso del IF**
+
+![image](https://github.com/SergioABS-GTICS/clase-2/assets/154263057/33b8159b-6626-434c-ae63-28f1fc7a3884)
+
+
+![image](https://github.com/SergioABS-GTICS/clase-2/assets/154263057/80dd354e-de99-4a1a-aecc-4f661874cf2a)
+
+
+**Uso del IF/UNLESS**
+
+![image](https://github.com/SergioABS-GTICS/clase-2/assets/154263057/bf5f67bc-4dad-402c-9d63-cb4efaf54d3f)
+
+## Mostrar recursos (JS, CSS, IMAGES)
+
+![image](https://github.com/SergioABS-GTICS/clase-2/assets/154263057/35c773a4-3118-41c7-9f99-edff08a5641e)
 
