@@ -41,5 +41,15 @@
 
 ![image](https://github.com/SergioABS-GTICS/clase-2/assets/154263057/86b187de-e01d-4d80-9641-7b891b71e287)
 
+## Condicional IF a usar en HTML
 
+![image](https://github.com/SergioABS-GTICS/clase-2/assets/154263057/7c19e9fa-a789-4b58-a9d6-fc932ad032f2)
+
+Resultados:
+
+![image](https://github.com/SergioABS-GTICS/clase-2/assets/154263057/ea9e0061-ed5e-4be4-ae22-df6db878f567)
+
+![image](https://github.com/SergioABS-GTICS/clase-2/assets/154263057/4b30e446-5c44-4b85-88d9-029589162d0e)
+
+##
 
